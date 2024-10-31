@@ -11,7 +11,7 @@
 
 ## About Me
 
-I've been working in different sheres and when I have free time I devote it to developing new skills such as programming. I get very excited when my code works.
+I've been working in different spheres and when I have free time I devote it to developing new skills such as programming. I get very excited when my code works.
 
 ## Skills
 

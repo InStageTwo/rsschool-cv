@@ -1,4 +1,4 @@
 # rsschool-cv
-cv for RS task
+Curriculum Vitae for RS task
 
 https://instagetwo.github.io/rsschool-cv/cv
